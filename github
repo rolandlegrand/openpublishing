@@ -1,11 +1,14 @@
 In this new year I'd like to experiment with open publishing. 
-My site, learning with moocs, is an [indie-website](https://learningwithmoocs.com/decentralized-web/indiewebifying-this-site/), but what about the whole process of 
-writing an article? Software developers use sophisticated platforms and procedures to work collaboratively. They use [GitHub](https://github.com) and the version-control system [Git](https://en.wikipedia.org/wiki/Git). What if I
-would use the same system to write posts, articles and longer stuff? I (or others) could make new versions of the master text, and eventually we could merge different versions into one document. It would be easy to go back in time
+My site, learning with moocs, is an [indie-website](https://learningwithmoocs.com/decentralized-web/indiewebifying-this-site/), 
+but what about the whole process of 
+writing an article? Software developers use sophisticated platforms and procedures to work collaboratively. 
+They use [GitHub](https://github.com) and the version-control system [Git](https://en.wikipedia.org/wiki/Git). What if I
+would use the same system to write posts, articles and longer stuff? I (or others) could make new versions of the master text, 
+and eventually we could merge different versions into one document. It would be easy to go back in time
 and restore an older version. Or several versions could co-exist.
 
-I tried to use the command line interface to use GitHub and a new blogging workflow, but I fear it makes the process unnecessary complicated.
-Especially when working with non-engineer collaborators, the CLI makes the learning curve a lot steeper. 
+I tried to use the command line interface to use GitHub and a new blogging workflow, but I fear it makes the process 
+unnecessary complicated. Yet I want to give the command line a try. 
 
 GitHub-tools relevant for this project are the wiki, comments and GitHub pages for blogging. 
 
