@@ -1,7 +1,8 @@
 In this new year I'd like to experiment with open publishing. 
 My site, learning with moocs, is an [indie-website](https://learningwithmoocs.com/decentralized-web/indiewebifying-this-site/), 
-but what about the whole process of 
-writing an article? Software developers use sophisticated platforms and procedures to work collaboratively. 
+but what about the whole process of writing an article? Software developers use sophisticated platforms and procedures to work 
+collaboratively. 
+
 They use [GitHub](https://github.com) and the version-control system [Git](https://en.wikipedia.org/wiki/Git). What if I
 would use the same system to write posts, articles and longer stuff? I (or others) could make new versions of the master text, 
 and eventually we could merge different versions into one document. It would be easy to go back in time
