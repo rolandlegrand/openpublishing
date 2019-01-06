@@ -13,7 +13,7 @@ unnecessary complicated. Yet I want to give the command line a try.
 
 GitHub-tools relevant for this project are the wiki, comments and GitHub pages for blogging. 
 
-## Examples
+## Tutorials and Examples
 On Medium JJ Merelo wrote about [Top ten reasons GitHub is a great tool for creative writers](https://medium.com/@jjmerelo/top-ten-reasons-github-is-a-great-tool-for-creative-writers-d0e8b27de71d).
 Loren Burton explains why GitHub is superior to Google Docs in [Github for Writers](http://www.madebyloren.com/posts/github-for-writers):
 > Contributors can make changes at will, without worrying about affecting anybody else.
