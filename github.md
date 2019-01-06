@@ -13,10 +13,10 @@ unnecessary complicated. Yet I want to give the command line a try.
 
 GitHub-tools relevant for this project are the wiki, comments and GitHub pages for blogging. 
 
-##Examples
+## Examples
 On Medium JJ Merelo wrote about [Top ten reasons GitHub is a great tool for creative writers](https://medium.com/@jjmerelo/top-ten-reasons-github-is-a-great-tool-for-creative-writers-d0e8b27de71d).
 Loren Burton explains why GitHub is superior to Google Docs in [Github for Writers](http://www.madebyloren.com/posts/github-for-writers):
->Contributors can make changes at will, without worrying about affecting anybody else.
+> Contributors can make changes at will, without worrying about affecting anybody else.
 
 However, GitHub is created by developers for developers, so Burton explains, and he created a GitHub for writers, [Penflip](https://www.penflip.com/).
 Konrad M. Lawson wrote a whole series about GibHub but concluded with [The Limitations of GitHub for Writers](https://www.chronicle.com/blogs/profhacker/the-limitations-of-github-for-writers/48299).
@@ -32,7 +32,7 @@ JJ Merelo writes [fiction on GitHub](https://github.com/JJ/hoborg).
 
 Joe Buhlig [describes his GitHub-workflow](https://joebuhlig.com/writing-with-github/) as a writer. 
 
-##Alternatives
+## Alternatives
 
 One can hope to convince people to use Git and GitHub for non-coding projects, but an alternative is to rebuild GitHub to make
 it more appealing for non-coders. I used Ole Begemann's article [Collaborative Writing on GitHub](https://oleb.net/blog/2016/02/collaborative-writing-on-github/)
