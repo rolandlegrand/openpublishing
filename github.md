@@ -11,7 +11,22 @@ and restore an older version. Or several versions could co-exist.
 I tried to use the command line interface to use GitHub and a new blogging workflow, but I fear it makes the process 
 unnecessary complicated. Yet I want to give the command line a try. 
 
-GitHub-tools relevant for this project are the wiki, comments and GitHub pages for blogging. 
+GitHub-tools relevant for this project are the wiki, comments and GitHub pages for blogging. But why use version control and
+GitHub at all? 
+
+## Workflow
+
+Suppose you have the beginning of a text. In GitHub that could be the "master" file. In Google Docs you could invite people
+to share the file and edit it, but in my experience people are reluctant to change texts of other authors. GitHub allows
+you to fork the master (make a copy of it), change it, view the differences and suggest the merging of the new text with the
+master text (pull request). When approved, the merging is very simple (like in: click a button). In the weird language of
+GitHub, there's a commit of the changes (a new version of the master file emerges). 
+
+The master is the "master branch", and also the author of that branch can experiment creating very simply (again, by 
+clicking a button) a new branch (copying the master) and adding or changing stuff on the level of the new branch, eventually
+merging both branches and deleting the new branch. Of course, one can also simply edit the master branch and commit the 
+changes. It's always possible to go back to a previous commit. 
+
 
 ## Tutorials and Examples
 On Medium JJ Merelo wrote about [Top ten reasons GitHub is a great tool for creative writers](https://medium.com/@jjmerelo/top-ten-reasons-github-is-a-great-tool-for-creative-writers-d0e8b27de71d).
