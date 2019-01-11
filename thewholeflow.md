@@ -1,5 +1,5 @@
 
-- Organise your thoughts using mindmapping. There are lots of tools, I like to use MindMeister. The added benefit is that, in a later stage, you can turn your mindmap into a collaborative map, asking others to help you. There are free alternatives for online mindmapping but they won’t all allow for collaborative mindmapping.
+- Organize your thoughts using mindmapping. There are lots of tools, I like to use MindMeister. The added benefit is that, in a later stage, you can turn your mindmap into a collaborative map, asking others to help you. There are free alternatives for online mindmapping but they won’t all allow for collaborative mindmapping.
 
 - Organize your concepts: build a lexicon. 
  
