@@ -1,7 +1,7 @@
 
-- Organise your thoughts using mindmapping. There are lots of tools, I like to use MindMeister. The added benefit is that, in a later stage,
-you can turn your mindmap into a collaborative map, asking others to help you. There are free alternatives for online mindmapping but 
-they won’t all allow for collaborative mindmapping.
+- Organise your thoughts using mindmapping. There are lots of tools, I like to use MindMeister. The added benefit is that, in a later stage, you can turn your mindmap into a collaborative map, asking others to help you. There are free alternatives for online mindmapping but they won’t all allow for collaborative mindmapping.
+
+- Organize your concepts: build a lexicon. 
  
 - Head over to social media such as Twitter and Facebook to listen. Organize relevant people in Twitter lists, search for hashtags. 
 Other interesting places for in-depth discussions are Reddit and Quora, and for each subject you’ll find specialized forums.
@@ -23,7 +23,7 @@ for their posts and contributions and engage in real conversations, not in thin 
 You can use the feedback to develop your mindmap even further and then you can publish the mindmap as a collaborative document 
 where others can add their own thoughts. Maybe this will inspire you for a new post and a new cycle.
 
-- Chances are that you can invite people to form a small community on Slack, Mattermost, Discord, Mastodon... where you can work together –
+- Chances are that you can invite people to form a small community on Slack, Mattermost, Discord, Mastodon... where you can work together 
 exchange bookmarks, organize channels for different aspects of the subject the community is interested in. 
 
 - A videoconferencing tool such as Zoom enables you to engage with that community into a weekly of monthly meeting. 
