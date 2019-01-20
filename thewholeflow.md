@@ -1,7 +1,7 @@
 
 - Organize your thoughts using mindmapping. There are lots of tools, I like to use MindMeister. The added benefit is that, in a later stage, you can turn your mindmap into a collaborative map, asking others to help you. There are free alternatives for online mindmapping but they won’t all allow for collaborative mindmapping.
 
-- Organize your concepts: build a lexicon. 
+- Organize your concepts: build a lexicon. Do this by linking to Wikidata (which makes you give a short description), eventually contributing to the Wikidata knowledge base. 
  
 - Head over to social media such as Twitter and Facebook to listen. Organize relevant people in Twitter lists, search for hashtags. 
 Other interesting places for in-depth discussions are Reddit and Quora, and for each subject you’ll find specialized forums.
