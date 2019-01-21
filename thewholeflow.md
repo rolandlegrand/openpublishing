@@ -20,8 +20,7 @@ Or you could go for a fully hosted WordPress or Drupal solution, or for a decent
 - Of course you also need social media to talk about your blog posts and to discuss with others. Don’t hesitate giving others credit for their posts and contributions and engage in real conversations, not in thin excuses to promote yourself.
 
 - This is where the circle closes itself: you return to the social media to tell people about your post and to reconnect. 
-You can use the feedback to develop your mindmap even further and then you can publish the mindmap as a collaborative document 
-where others can add their own thoughts. Maybe this will inspire you for a new post and a new cycle.
+You can use the feedback to develop your mindmap even further and then you can publish the mindmap as a collaborative document where others can add their own thoughts. Maybe this will inspire you for a new post and a new cycle.
 
 - Chances are that you can invite people to form a small community on Slack, Mattermost, Discord, Mastodon... where you can work together, exchange bookmarks, organize channels for different aspects of the subject the community is interested in. 
 
